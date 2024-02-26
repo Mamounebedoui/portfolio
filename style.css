@@ -1,0 +1,26 @@
+  
+
+
+body{
+    background-color: aqua;
+}
+
+h1,h2{ display: flex;
+    justify-content: center;
+    color: brown;
+    
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
